@@ -52,6 +52,7 @@ dilate_opencv() - cv2.dilate
 
 Python-цикл (native) == OpenCV : True
 NumPy (native)       == OpenCV : True
+
 все три алгоритма выдают одинаковый результат.
 
 Сравнение быстродействия (изображение 584x1279)
